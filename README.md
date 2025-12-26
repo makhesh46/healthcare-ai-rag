@@ -80,7 +80,7 @@ API validation
 
 Deployment support
 
-👨‍💻 Project Author
+👨‍💻 Project Author.
 
 Makhesh
 GitHub: https://github.com/makhesh46
